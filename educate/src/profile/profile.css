@@ -1,0 +1,152 @@
+.profile12 {
+    background-color: #eee;
+}
+
+.bg-modal {
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 170%;
+    position: absolute;
+    top: 0;
+    display: none;
+    padding-left: 33rem;
+    padding-top: 10rem;
+}
+
+.anchorTag {
+    text-decoration: none;
+}
+
+.editButton {
+    text-decoration: none;
+}
+
+.modal-contents input {
+    padding-top: 1rem;
+}
+
+.modal-contents {
+    height: 32rem;
+    width: 30rem;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    border-radius: 4px;
+}
+
+.profileModal {
+    padding-top: 1rem;
+    margin: 15px auto;
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+    padding: 8px;
+    border: 1px solid gray;
+}
+
+.close {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    font-size: 42px;
+    color: #333;
+    transform: rotate(45deg);
+    cursor: pointer;
+    &:hover {
+        color: #666;
+    }
+}
+
+#overlay.active {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.col54 {
+    padding-top: 3rem;
+}
+
+.classforsubmit {
+    padding-left: 0rem;
+}
+
+.profile123 {
+    width: 150px;
+}
+
+.class1 {
+    color: #333333;
+}
+
+.class2 {
+    color: #55acee;
+}
+
+.class3 {
+    color: #ac2bac;
+}
+
+.class4 {
+    color: #3b5998;
+}
+
+.classnm {
+    font-size: .77rem;
+}
+
+.classnm1 {
+    height: 5px;
+}
+
+.classnm2 {
+    width: 80%
+}
+
+.classnm3 {
+    font-size: .77rem
+}
+
+.classnm4 {
+    height: 5px;
+}
+
+.classnm5 {
+    width: 72%;
+}
+
+.classnm6 {
+    font-size: .77rem;
+}
+
+.classnm7 {
+    height: 5px;
+}
+
+.classnm8 {
+    width: 50%
+}
+
+.classnm9 {
+    font-size: .77rem;
+}
+
+.classnm10 {
+    height: 5px;
+}
+
+.classnm11 {
+    width: 55%
+}
+
+.classnm12 {
+    font-size: .77rem;
+}
+
+.classnm13 {
+    height: 5px;
+}
+
+.classnm14 {
+    width: 66%
+}

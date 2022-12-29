@@ -1,0 +1,166 @@
+body {
+    background-color: #000
+}
+
+.custom {
+    padding: 5rem;
+}
+
+.customImage {
+    padding-right: 4rem;
+}
+
+.card {
+    border: none
+}
+
+.product {
+    background-color: #eee
+}
+
+.brand {
+    font-size: 13px
+}
+
+.act-price {
+    color: red;
+    font-weight: 700
+}
+
+.dis-price {
+    text-decoration: line-through
+}
+
+.about {
+    font-size: 14px
+}
+
+.color {
+    margin-bottom: 10px
+}
+
+label.radio {
+    cursor: pointer
+}
+
+label.radio input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    visibility: hidden;
+    pointer-events: none
+}
+
+label.radio span {
+    padding: 2px 9px;
+    border: 2px solid #ff0000;
+    display: inline-block;
+    color: #ff0000;
+    border-radius: 3px;
+    text-transform: uppercase
+}
+
+label.radio input:checked+span {
+    border-color: #ff0000;
+    background-color: #ff0000;
+    color: #fff
+}
+
+.btn-danger {
+    background-color: #ff0000 !important;
+    border-color: #ff0000 !important
+}
+
+.btn-danger:hover {
+    background-color: #da0606 !important;
+    border-color: #da0606 !important
+}
+
+.btn-danger:focus {
+    box-shadow: none
+}
+
+.cart i {
+    margin-right: 10px
+}
+
+.heading {
+    align-content: center;
+}
+
+.video-icon {
+    padding-left: 980px;
+    padding-top: 10px
+}
+
+.dropdown-courses {
+    padding-top: 10px;
+    padding-left: 117px;
+    padding-right: 117px;
+    padding-bottom: 0;
+}
+
+.shopping-cart {
+    width: 30px;
+}
+
+.cool {
+    padding-left: 20px;
+    /* justify-content: flex-end; */
+    font-size: 5px;
+    color: black
+}
+
+#instructions {
+    max-width: 640px;
+    text-align: left;
+    margin: 30px auto;
+}
+
+#instructions textarea {
+    width: 100%;
+    height: 100px;
+}
+
+
+/* Show the controls (hidden at the start by default) */
+
+.video-js .vjs-control-bar {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+
+/* Make the demo a little prettier */
+
+body {
+    margin-top: 10px;
+    background: white;
+    text-align: center;
+    color: #aaa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a,
+a:hover,
+a:visited {
+    color: black;
+}
+
+.wishlist i {
+    color: red
+}
+
+.text-muted {
+    color: red
+}
+
+.redcolor {
+    color: red
+}
+
+.change {
+    width: 100.3333333%;
+}
