@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module":"CommonJs",
+        "target": "es2017",
+        "noImplicitAny": true,
+        "rootDir": "./src", 
+        "outDir": "./dist",
+        "sourceMap": true,
+    },
+    "include": [
+        "./src/**/*"
+, "user.ts"    ],
+}
+
